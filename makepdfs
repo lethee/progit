@@ -23,6 +23,8 @@ for dir in $dirContent; do
 	fi
 done
 
+argString="ko"
+
 echo "Will generate pdf for the following languages:"
 echo "	"$argString
 
